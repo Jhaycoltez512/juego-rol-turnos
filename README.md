@@ -18,12 +18,6 @@ También funciona en celulares. Se recomienda usar la pantalla en horizontal.
 
 Al completar una etapa, la compañía recupera toda su vida antes de continuar.
 
-### Estrategia del Camino del Olimpo
-
-En `Mundo-_1`, el tercer mundo añade un sistema exclusivo de afinidades: cada enemigo muestra una debilidad y una resistencia. El Hoplita protege y provoca, el Oráculo prepara predicciones y cura, la Cazadora busca golpes críticos y el Auriga encadena ataques dobles y aturdimientos.
-
-Después de cada etapa se elige entre bendiciones temporales o permanentes, reliquias y eventos de ruta. El Minotauro crea un laberinto, la Hidra regenera vida, Cerbero alterna tres cabezas, el Titán carga ataques, la Quimera cambia de forma y Zeus combate en tres fases.
-
 ## Héroes y combate
 
 Elige tres héroes antes de cada mundo. Cada personaje tiene estadísticas, habilidades y un rol diferente: daño, defensa, control, curación o apoyo.
